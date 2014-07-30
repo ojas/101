@@ -24,3 +24,9 @@ You can write software, but what tech is needed to operate a software business?
 - [Best practices in modern web projects](http://blog.arvidandersson.se/2014/06/17/best-practices-in-modern-web-projects)
 - [Deployment Academy](https://blog.rainforestqa.com/categories/deployment-academy/)
 - [5 Common Server Setups For Your Web Application](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
+
+### Austin-Specific
+
+- [Intro to the Austin Startup Scene](http://www.slideshare.net/DamonClinkscales/intro-to-the-austin-startup-scene-30603601)
+- [Austin Entrepreneurship Scene](http://www.mindmeister.com/24358308/austin-entrepreneurship-scene)
+- [Austin Startup Digest](https://www.startupdigest.com/digests/austin)
