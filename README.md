@@ -30,3 +30,7 @@ You can write software, but what tech is needed to operate a software business?
 - [Intro to the Austin Startup Scene](http://www.slideshare.net/DamonClinkscales/intro-to-the-austin-startup-scene-30603601)
 - [Austin Entrepreneurship Scene](http://www.mindmeister.com/24358308/austin-entrepreneurship-scene)
 - [Austin Startup Digest](https://www.startupdigest.com/digests/austin)
+
+### Legal Structure
+
+- [Joel's Totally Fair Method to Divide Up The Ownership of Any Startup](http://money.stackexchange.com/questions/26337/what-to-ask-for-on-a-business-partnership/26370#26370)
