@@ -17,6 +17,12 @@
 - [Build Your Own Summary Tool](http://thetokenizer.com/2013/04/28/build-your-own-summary-tool/)
 - [TextBlob](https://textblob.readthedocs.org/)
 
+## Machine Learning
+
+- [Mahout](http://mahout.apache.org/)
+- [A Course in Machine Learning](http://ciml.info)
+- [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+
 ## Backend Architectures the Big Guys Use
 
 - [Backend Architectures](https://gist.github.com/ragingwind/5840075)
