@@ -10,6 +10,13 @@
 - [Python Web Scraping Resource](http://jakeaustwick.me/python-web-scraping-resource/)
 - [Kimono](https://www.kimonolabs.com) convert webpages to APIs
 
+## Natural Language Processing
+
+- [NLTK - Natural Language Toolkit](http://www.nltk.org/)
+- [Stack Overflow - summarize text or simplify text](http://stackoverflow.com/questions/5479333/summarize-text-or-simplify-text)
+- [Build Your Own Summary Tool](http://thetokenizer.com/2013/04/28/build-your-own-summary-tool/)
+- [TextBlob](https://textblob.readthedocs.org/)
+
 ## Backend Architectures the Big Guys Use
 
 - [Backend Architectures](https://gist.github.com/ragingwind/5840075)
