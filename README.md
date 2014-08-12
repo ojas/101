@@ -7,6 +7,10 @@ The absolute minimum anyone in the software business should know about pricing.
 - [Camels and Rubber Duckies](http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html)
 - [SaaS Pricing](https://training.kalzumeus.com/newsletters/archive/saas_pricing)
 
+### Product & Marketing
+
+- [Pragmatic Marketing](http://mediafiles.pragmaticmarketing.com/pdf/PragmaticMarketingFramework.pdf)
+
 ### Business Models
 
 If you're in any sort of business, you should be familiar with various business models.
