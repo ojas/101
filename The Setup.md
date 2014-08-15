@@ -18,6 +18,7 @@ I do most of my programming in [python](https://www.python.org) and should proba
 
 More:
 
+- [Airmail](http://airmailapp.com) for desktop email client
 - [Asana](http://asana.com/) for project management (business & personal)
 - [RescueTime](https://www.rescuetime.com/) for stay efficent
 - [Evernote](http://evernote.com) to store any and all docs, the mobile version's document scanner is great for storing paper docs. I can eliminate most of my paper docs with this.
