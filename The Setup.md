@@ -10,7 +10,7 @@ I'm still using a [13" Mid 2011 MacBook Air](http://support.apple.com/kb/SP683).
 
 ### And what software?
 
-I use [Sublime](http://www.sublimetext.com) for most of my text editing, although I prefer to use [Mou](http://mouapp.com) for [Markdown](http://daringfireball.net/projects/markdown/) files.
+I use [Sublime](http://www.sublimetext.com) for most of my text editing, although I prefer to use ~~[Mou](http://mouapp.com)~~  [MacDown](http://macdown.uranusjr.com) for [Markdown](http://daringfireball.net/projects/markdown/) files.
 
 I use [Homebrew](http://brew.sh) for package management, [Git](http://www.git-scm.com), [Github](https://github.com), and [Bitbucket](http://bitbucket.org) for source control. I use [Pixelmator](http://www.pixelmator.com) for general image editing.
 
