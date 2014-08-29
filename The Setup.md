@@ -16,11 +16,12 @@ I use [Homebrew](http://brew.sh) for package management, [Git](http://www.git-sc
 
 I do most of my programming in [python](https://www.python.org) and should probably get more familiar with [PyCharm](http://www.jetbrains.com/pycharm/). I've heard MacVim with Janus is a good way to make the transition to Vim, which is something I would like to make time to learn.
 
+I'm kind of obsessed with being happy and productive when I code. I use [RescueTime](https://www.rescuetime.com/) for staying efficent and focused and have started using [Track Your Happiness Tracker](https://www.trackyourhappiness.org/) after hearing [Matt's TED talk](http://www.ted.com/talks/matt_killingsworth_want_to_be_happier_stay_in_the_moment?language=en).
+
 More:
 
 - [Airmail](http://airmailapp.com) for desktop email client
 - [Asana](http://asana.com/) for project management (business & personal)
-- [RescueTime](https://www.rescuetime.com/) for staying efficent and focused
 - [Evernote](http://evernote.com) to store any and all docs, the mobile version's document scanner is great for storing paper docs. I can eliminate most of my paper docs with this.
 
 Of course for personal stuff:
