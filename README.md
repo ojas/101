@@ -17,6 +17,10 @@ If you're in any sort of business, you should be familiar with various business 
 
 - List and examples of 100+ [Business Models](https://gist.github.com/ndarville/4295324)
 
+### Startups
+
+- [Terms Every Aspiring Entrepreneur Should Know](http://haydenlee.io/terms-every-aspiring-entrepeneur-should-know)
+
 ### Operations
 
 You can write software, but what tech is needed to operate a software business?
