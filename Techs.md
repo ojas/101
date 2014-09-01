@@ -21,6 +21,7 @@
 
 - [Mahout](http://mahout.apache.org/)
 - [A Course in Machine Learning](http://ciml.info)
+- [Machine Learning Cheat Sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 - [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
 ## Backend Architectures the Big Guys Use
