@@ -27,3 +27,11 @@
 ## Backend Architectures the Big Guys Use
 
 - [Backend Architectures](https://gist.github.com/ragingwind/5840075)
+
+## Front-End
+
+- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
+
+## Other
+
+Wow, look at [Awesome - A curated list of awesome lists](https://github.com/sindresorhus/awesome)
