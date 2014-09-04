@@ -30,3 +30,4 @@ Of course for personal stuff:
 - [Dropbox](http://dropbox.com/) for storage
 - [SparkleShare](http://sparkleshare.org/) for storage
 - [Mint](https://www.mint.com/) for financial overview
+- [Ifttt](https://ifttt.com/) for automation
