@@ -18,7 +18,7 @@ I do most of my programming in [python](https://www.python.org) and should proba
 
 I'm kind of obsessed with being happy and productive when I code. I use [RescueTime](https://www.rescuetime.com/) for staying efficent and focused and have started using [Track Your Happiness Tracker](https://www.trackyourhappiness.org/) after hearing [Matt's TED talk](http://www.ted.com/talks/matt_killingsworth_want_to_be_happier_stay_in_the_moment?language=en).
 
-I'm trying to automate life's boring tasks. Of course, I use automatic billpay any time I can. I have a hodge-podge of scripts that use [Boxcar](https://boxcar.io), [Ifttt](https://ifttt.com/), and my bank's account notifications to alert me as needed. I should probably clean this up and share the code.
+I'm trying to automate life's boring tasks. I publish a calendar on my website to help people schedule meetings with me.  Of course, I use automatic billpay any time I can. I have a hodge-podge of scripts that use [Boxcar](https://boxcar.io), [Ifttt](https://ifttt.com/), and my bank's account notifications to alert me as needed. I should probably clean this up and share the code.
 
 More:
 
