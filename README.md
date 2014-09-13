@@ -9,6 +9,7 @@ The absolute minimum anyone in the software business should know about pricing.
 
 ### Product & Marketing
 
+- [Startup Marketing Plan Template](http://daniellegeva.com/2014/09/09/startup-marketing-plan-template/)
 - [Pragmatic Marketing](http://mediafiles.pragmaticmarketing.com/pdf/PragmaticMarketingFramework.pdf)
 
 ### Business Models
