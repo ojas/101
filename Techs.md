@@ -1,5 +1,21 @@
 # Techs
 
+## Python
+
+- <https://www.python.org>
+- [Learn Python](http://www.learnpython.org/)
+- [Dive Into Python](http://www.diveintopython.net/toc/index.html)
+- [Python the Hard Way](http://learnpythonthehardway.org/book/)
+- [Python AV](https://www.python.org/doc/av/)
+- <http://www.neckbeardrepublic.com>
+
+## Django
+
+- [Django Project](https://www.djangoproject.com)
+- [Effective Django](http://effectivedjango.com)
+- [Tango with Django](http://www.tangowithdjango.com/)
+- 
+
 ## Data Science
 
 - [Data Science Toolkit](http://www.datasciencetoolkit.org)
