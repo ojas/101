@@ -8,13 +8,14 @@
 - [Python the Hard Way](http://learnpythonthehardway.org/book/)
 - [Python AV](https://www.python.org/doc/av/)
 - <http://www.neckbeardrepublic.com>
+- more at [awesome-python](https://github.com/vinta/awesome-python)
 
 ## Django
 
 - [Django Project](https://www.djangoproject.com)
 - [Effective Django](http://effectivedjango.com)
 - [Tango with Django](http://www.tangowithdjango.com/)
-- 
+- more at [awesome-django](https://github.com/rosarior/awesome-django)
 
 ## Data Science
 
