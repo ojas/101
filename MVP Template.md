@@ -1,6 +1,6 @@
 # MVP Template
 
-- [Landing page](http://kickofflabs.com)
+- [Kickoff Labs - Landing page](http://kickofflabs.com)
 - MailChimp
 - Email
 - Twitter
