@@ -6,7 +6,7 @@ I'm Ojas. I write software for a living.
 
 ### What hardware do you use?
 
-I'm still using a [13" Mid 2011 MacBook Air](http://support.apple.com/kb/SP683). It seems to keep on rocking and I haven't found the need to get something more powerful yet. I have an iPhone 5 I use a lot too.
+I'm still using a [13" Mid 2011 MacBook Air](http://support.apple.com/kb/SP683). It seems to keep on rocking and I haven't found the need to get something more powerful yet. I have an iPhone 6 I use a lot too.
 
 ### And what software?
 
