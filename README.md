@@ -12,6 +12,10 @@ The absolute minimum anyone in the software business should know about pricing.
 - [Startup Marketing Plan Template](http://daniellegeva.com/2014/09/09/startup-marketing-plan-template/)
 - [Pragmatic Marketing](http://mediafiles.pragmaticmarketing.com/pdf/PragmaticMarketingFramework.pdf)
 
+### Misc
+
+- [40% Rule](http://avc.com/2015/02/the-40-rule/)
+
 ### Business Models
 
 If you're in any sort of business, you should be familiar with various business models.
