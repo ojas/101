@@ -12,6 +12,10 @@ The absolute minimum anyone in the software business should know about pricing.
 - [Startup Marketing Plan Template](http://daniellegeva.com/2014/09/09/startup-marketing-plan-template/)
 - [Pragmatic Marketing](http://mediafiles.pragmaticmarketing.com/pdf/PragmaticMarketingFramework.pdf)
 
+### How to Name your Company
+- [Nominology](http://messymatters.com/nominology/)
+- [Startup Names by PG](http://aux.messymatters.com/pgnames.html)
+
 ### Misc
 
 - [40% Rule](http://avc.com/2015/02/the-40-rule/)
